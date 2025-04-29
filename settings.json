@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "HolaAmigo.aternos.me", 
-    "port": 49368,   
+    "ip": "KarmaBlocks.aternos.me", 
+    "port": 12559,   
     "version": "1.12.1"   
   },
   
