@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "Bot", 
+    "username": "BotProMax", 
     "password": "",
     "type": "mojang"
   },
@@ -35,9 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-         ".",
-        "..",
-        "..."
+         "DISCORD JOIN KRLO",
+        "LETS GO",
+        "V!sH4l"
       ]
     },
 
